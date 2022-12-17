@@ -39,3 +39,20 @@ Change in product or loaction name creates changes in their names in the history
 - SQLAlchemy
 
 
+output screenshot:
+homescreen
+![Screenshot (2)](https://user-images.githubusercontent.com/98136582/208214588-ce8541a5-d21b-4d3e-a305-6cfcf7f29996.png)
+
+
+
+![Screenshot (3)](https://user-images.githubusercontent.com/98136582/208214619-9a5fe4c6-6eca-457b-a283-0b33cd714150.png)
+
+products
+
+![Screenshot (4)](https://user-images.githubusercontent.com/98136582/208214669-509d7e3d-56fa-435c-921d-edeba3b7ef72.png)
+location
+![Screenshot (6)](https://user-images.githubusercontent.com/98136582/208214696-56694492-c1e0-42d1-83a2-142dcbf8a06a.png)
+
+move products
+![Screenshot (9)](https://user-images.githubusercontent.com/98136582/208214744-aa6bd18d-a6c7-4244-afd0-a2e78539bc37.png)
+![Screenshot (11)](https://user-images.githubusercontent.com/98136582/208214783-84023831-2ca1-4814-9541-2988dd43820b.png)
